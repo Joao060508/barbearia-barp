@@ -8,7 +8,7 @@ body {
     background-color: #f4f4f4;
 }
 header {
-    background-color: #178ed3;
+    background-color: #b39647;
     color: #ffffff;
     padding: 20px;
     text-align: center;
@@ -17,7 +17,7 @@ header {
     max-width: 100px; 
 }
 .info {
-    background-color: #0bebd8;
+    background-color: #ac7603;
     padding: 10px;
     text-align: center;
 }
@@ -42,7 +42,7 @@ header {
 }
 
 button {
-    background-color: #0066ff; 
+    background-color: #d68203; 
     color: white; 
     border: none; 
     padding: 10px 20px; 
@@ -52,7 +52,7 @@ button {
 }
 
 button:hover {
-    background-color: #003e85;
+    background-color: #d39d08;
 }
 .agendar {
     flex-grow: 1; 
@@ -64,7 +64,7 @@ img {
 }
 
 footer {
-    background-color: #074fa1;
+    background-color: #bb9107;
     color: #e5e768;
     text-align: center;
     padding: 10px 0;
